@@ -10,3 +10,4 @@
 ||croxyproxy.com^
 ||freeproxy.win^
 ||proxyscrape.com^
+||hidemyass-freeproxy.com^
